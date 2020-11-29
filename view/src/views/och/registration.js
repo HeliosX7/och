@@ -3,6 +3,7 @@ import axios from "axios";
 import Select from "react-select";
 import options from "./options";
 
+//Register Courses
 class CourseRegistration extends Component {
   constructor(props) {
     super(props);
